@@ -26,8 +26,8 @@ A powerful Python-based Telegram message logger that monitors specific chats or 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/telegram_logger.git
-cd telegram-logger
+git clone https://github.com/yourusername/TelegramLogger.git
+cd TelegramLogger.git
 ```
 
 2. Create a `requirements.txt` file with the following content:
