@@ -1,0 +1,3 @@
+telethon==1.40.0
+cryptg  # Optional, for speed improvements in downloading media
+pillow  # Optional, for handling images 
